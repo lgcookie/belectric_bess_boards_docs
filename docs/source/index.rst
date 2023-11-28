@@ -6,9 +6,11 @@
 Welcome to Belectric's BESS Board documentation!
 ===================================
 
-**Belectric's BESS Boards** are a visualisation into the economic performance of the UK BESS fleet.
-Everyday, it pulls data from numerous sources, transforms it and *hopefully* displays it in a coherent manenr. 
-and offers a *simple* and *intuitive* AP
+**Belectric's BESS Boards** offer a snapshot of the UK BESS operational fleet.
+
+Everyday, data is pulled from numerous sources, transformed and then displayed. 
+This documentation outlines the methodology and assumptions used to generate an *estimation* of revenues earned by BESS across different markets. 
+
 
 .. Check out the :doc:`how_is_it_made` section for further information on how it is created, including
 .. how to :ref:`installation` the project.
@@ -24,7 +26,7 @@ and offers a *simple* and *intuitive* AP
 
 
 
-Indices and tables
+Contents
 ==================
 
 * :ref:`genindex`
