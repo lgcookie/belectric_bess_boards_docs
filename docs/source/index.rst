@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 Welcome to Belectric's BESS Boards documentation!
-===================================
+==================================================
 
 **Belectric's BESS Boards** offer a snapshot of the UK BESS operational fleet.
 
@@ -21,7 +21,7 @@ This documentation outlines the methodology and assumptions used to generate an 
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
 
@@ -29,6 +29,6 @@ This documentation outlines the methodology and assumptions used to generate an 
 Contents
 ==================
 
-* :ref:`genindex`
-* :ref:`_how_is_it_made`
-.. * :ref:`data_sources`
+   * :ref:`genindex`
+   * :ref:`howitismade`
+
