@@ -25,3 +25,9 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 html_theme = 'agogo'
 # html_static_path = ['_static']
+html_theme_options = {
+    "bodyfont": "Century Gothic",
+    "headerfont": "Century Gothic",
+    "bgcolor":"#dddddd",
+    
+}
