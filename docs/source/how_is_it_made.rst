@@ -5,6 +5,23 @@
 
 Belectric's BESS Boards - How is it Made?
 ===================================
+.. _ancillary_services:
+
+Ancillary Services
+-------------------
+This is how we calculate Ancillary Services
+
+.. _balancing_mechanism:
+
+Balancing Mechanism
+-------------------
+This is how we calculate Balancing Mechanism
+
+.. _trading:
+
+Trading
+-------------------
+This is how we calculate trading
 
 **Belectric's BESS Boards** offer a snapshot of the UK BESS operational fleet.
 
