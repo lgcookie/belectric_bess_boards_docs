@@ -17,5 +17,5 @@ Contents
 
 .. toctree::
 
-   usage
+   what_is_it
    api

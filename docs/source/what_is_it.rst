@@ -1,12 +1,12 @@
 What is it?
 =====
 
-.. _installation:
+.. _what_is_it:
 
-Installation
+What is it?
 ------------
 
-To use Lumache, first install it using pip:
+To use , first install it using pip:
 
 .. code-block:: console
 
