@@ -30,5 +30,5 @@ Contents
 ==================
 
 * :ref:`genindex`
-* :ref:`how_is_it_made`
+* :ref:`_how_is_it_made`
 .. * :ref:`data_sources`
