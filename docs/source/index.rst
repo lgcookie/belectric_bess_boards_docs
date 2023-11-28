@@ -22,10 +22,9 @@ This documentation outlines the methodology and assumptions used to generate an 
 
 .. toctree::
    :maxdepth: 3
-   :caption: 
-
+   :caption: Contents:
+   
    howitismade
-
 
 
 
