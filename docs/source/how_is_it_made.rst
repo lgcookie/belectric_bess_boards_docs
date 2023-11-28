@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Belectric's BESS Boards documentation!
+Belectric's BESS Boards - How is it Made?
 ===================================
 
 **Belectric's BESS Boards** offer a snapshot of the UK BESS operational fleet.
@@ -17,7 +17,7 @@ This documentation outlines the methodology and assumptions used to generate an 
 
 .. note::
 
-   This project is a best efforts attempt and its findings should be treated as indicative
+   At present, data is only collected for BM assets, non BM assets will be introduced at BOY 2024.
 
 
 .. toctree::
@@ -29,6 +29,7 @@ This documentation outlines the methodology and assumptions used to generate an 
 Contents
 ==================
 
-* :ref:`genindex`
-* :ref:`how_is_it_made`
-* :ref:`search`
+* :ref:`ancillary_services`
+* :ref:`trading`
+* :ref:`balancing_mechanism`
+
