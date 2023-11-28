@@ -31,4 +31,4 @@ Contents
 
 * :ref:`genindex`
 * :ref:`how_is_it_made`
-* :ref:`search`
+.. * :ref:`data_sources`
