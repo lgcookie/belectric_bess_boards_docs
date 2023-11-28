@@ -23,11 +23,13 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'agogo'
+html_theme = 'classic'
 # html_static_path = ['_static']
 html_theme_options = {
     "bodyfont": "Century Gothic",
-    "headerfont": "Century Gothic",
+    "headfont": "Century Gothic",
+    "textcolor":"black",
     "bgcolor":"#dddddd",
-    
+    "sidebarbgcolor":"#f9b9b9",
+
 }
