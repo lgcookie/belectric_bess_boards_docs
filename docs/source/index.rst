@@ -24,9 +24,11 @@ This documentation outlines the methodology and assumptions used to generate an 
    :maxdepth: 3
    :caption: Contents:
 
+   howitismade
+
 
 
 Contents
 ==================
-   * :ref:`howitismade`
+   * dam <howitismade>
 
