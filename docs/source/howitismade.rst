@@ -6,10 +6,14 @@
 How it is Made?
 ===================================
 
-**Belectric's BESS Boards** offer a snapshot of the UK BESS operational fleet.
+**Belectric's BESS Boards** considers 3 sources of BESS revenue:
 
-Everyday, data is pulled from numerous sources, transformed and then displayed. 
-This documentation outlines the methodology and assumptions used to generate an *estimation* of revenues earned by BESS across different markets. 
+
+1. Ancillary Services
+2. Trading
+3. Balancing Mechanism
+
+
 
 .. _ancillary_services:
 
