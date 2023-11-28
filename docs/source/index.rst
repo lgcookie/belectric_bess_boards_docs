@@ -5,7 +5,7 @@ Welcome to Belectric's BESS Board documentation!
 Everyday, it pulls data from numerous sources, transforms it and *hopefully* displays it in a coherent manenr. 
 and offers a *simple* and *intuitive* AP
 
-Check out the :doc:`usage` section for further information, including
+Check out the :doc:`what_is_it` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::

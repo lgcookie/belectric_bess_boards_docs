@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Lumache'
+project = "Belectric's BESS Boards"
 copyright = '2021, Graziella'
 author = 'Graziella'
 
