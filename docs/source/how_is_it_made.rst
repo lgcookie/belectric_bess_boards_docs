@@ -5,6 +5,12 @@
 
 Belectric's BESS Boards - How is it Made?
 ===================================
+
+**Belectric's BESS Boards** offer a snapshot of the UK BESS operational fleet.
+
+Everyday, data is pulled from numerous sources, transformed and then displayed. 
+This documentation outlines the methodology and assumptions used to generate an *estimation* of revenues earned by BESS across different markets. 
+
 .. _ancillary_services:
 
 Ancillary Services
