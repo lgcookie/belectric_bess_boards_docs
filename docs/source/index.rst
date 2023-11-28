@@ -28,7 +28,5 @@ This documentation outlines the methodology and assumptions used to generate an 
 
 Contents
 ==================
-
-   * :ref:`genindex`
    * :ref:`howitismade`
 
